@@ -1,0 +1,19 @@
+footer{
+    .col-11{
+        padding: 4% 10% 10% 10%;
+        background-color: black;
+        color: white;
+    }
+    .col-1{
+        padding-left: 0%;
+        display: flex;
+        justify-content: center;
+    }
+    div{
+        
+        h5{
+            writing-mode: vertical-lr;
+            text-align: center;
+        }
+    }
+}
